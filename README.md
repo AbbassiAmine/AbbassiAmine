@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Amine from Tunisia <br><br>- 🔭 I am currently specializing in frontend development (React/JavaScript) through hands-on application development at ALX Africa.<br><br>- ⚡ In my free time I learn new tools & technologies.</p>
+<p align="left">I'm Amine from Tunisia <br> <br>- 🔭 I am currently specializing in frontend development (React/JavaScript) through hands-on application development at ALX Africa.<br>- ⚡ In my free time I learn new tools & technologies.</p>
 
 ###
 
